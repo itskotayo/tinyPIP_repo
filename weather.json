@@ -1,0 +1,12 @@
+{
+    "today": ["SUN", "72F", "CLEAR"],
+    "week": [
+        ["MON", "70F", "CLOUDY"],
+        ["TUE", "68F", "RAIN"],
+        ["WED", "71F", "CLEAR"],
+        ["THU", "69F", "PART"],
+        ["FRI", "73F", "CLEAR"],
+        ["SAT", "75F", "CLEAR"],
+        ["SUN", "72F", "CLEAR"]
+    ]
+}
